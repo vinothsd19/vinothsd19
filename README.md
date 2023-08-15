@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothsd19&label=Profile%20views&color=0e75b6&style=flat" alt="vinothsd19" /> </p>
 
-- 🌱 I’m currently learning **Airflow , kubernetes**
+- 🌱 I’m currently learning **Airflow , Kubernetes**
 
-- 💬 Ask me about **Data Viz , Power BI , PostgreSQL**
-
+- 💬 Ask me about **Data Viz, Data Engineering, Machine Learning, Sentiment Analysis, Qlikview, Power BI, PostgreSQL**
+ 
 - 📫 How to reach me **vinothsd19@gmail.com**
 
 
