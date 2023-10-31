@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinoth Kumar Dhandapani</h1>
 <h3 align="center">Data Enthusiast from Berlin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothsd19&label=Profile%20views&color=0e75b6&style=flat" alt="vinothsd19" /> </p>
 
-- 🌱 I’m currently learning **Airflow , Kubernetes**
+- 🌱 I’m currently learning **Airflow , Kubernetes, AWS, Kafka**
 
 - 💬 Ask me about **Data Viz, Data Engineering, Machine Learning, Sentiment Analysis, Qlikview, Power BI, PostgreSQL**
  
