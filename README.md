@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Data Viz, Data Engineering, Machine Learning, Sentiment Analysis, Qlikview, Power BI, PostgreSQL**
  
-- 📫 How to reach me: **vinothsd19@gmail.com**
+
 
 
 
