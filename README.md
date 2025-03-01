@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinothsd19@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com//in/vinothsd/](https://www.linkedin.com//in/vinothsd/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vinothsd/](https://www.linkedin.com/in/vinothsd/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
